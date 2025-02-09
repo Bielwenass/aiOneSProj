@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.СпецПредложения" id="0da36a34-e21a-40d1-ab48-60fbcb421a8b" configVersion="936f76c1efae614f86ca5a098ea566f600000000">
+			<Metadata name="AccumulationRegister.СпецПредложения.Dimension.Номенклатура" id="423f67f2-19a9-4c8e-86b4-c280a5e8259a"/>
+			<Metadata name="AccumulationRegister.СпецПредложения.Resource.Сумма" id="df03e82c-c0d7-4a6f-b350-c2e0e2478d9d"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.СпецПредложения.RecordSetModule" id="0da36a34-e21a-40d1-ab48-60fbcb421a8b.1" configVersion="ef0d33058543774ebb31de1088b2183500000000"/>
+		<Metadata name="Catalog.Номенклатура" id="9daf0275-5a0e-4a2d-8a89-dc30a35939f6" configVersion="b30582094565f64387daa56200d3dacb00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a28eaa59-6b5a-41de-bf3e-f231c508fb9c" configVersion="c9ee8b7828d831438090eb7680eccc2400000000"/>
+		<Metadata name="Document.СпецПредложение" id="ec3ab9aa-513b-41ef-bcd9-860f1638a2f5" configVersion="c1bce088f66f0447869c6d497f76ef2c00000000">
+			<Metadata name="Document.СпецПредложение.Attribute.Сумма" id="a94af196-21fd-46e8-bfb6-82fe74b5182f"/>
+			<Metadata name="Document.СпецПредложение.Attribute.Товар" id="d3f61ae5-c79a-484d-bf59-1f5c5b9acf21"/>
+		</Metadata>
+		<Metadata name="Document.СпецПредложение.ObjectModule" id="ec3ab9aa-513b-41ef-bcd9-860f1638a2f5.0" configVersion="3713e3125321704c9c74d0af3d8684ca00000000"/>
+		<Metadata name="Language.Русский" id="42088c08-31d8-46d6-8600-4d60aa67f819" configVersion="31742ffc0dd17d4799a53d75ffae6ab100000000"/>
+		<Metadata name="Report.ДанныеСпецПредложений" id="5123aef4-f593-4908-90ff-268405a99e64" configVersion="f12e87beb563ef4fb240d260576a874500000000"/>
+		<Metadata name="Report.ДанныеСпецПредложений.Template.ОсновнаяСхемаКомпоновкиДанных" id="90e0264e-cad0-4b57-9c41-131a86a049bb" configVersion="2126465edfb38e44a801630b9b53198d00000000"/>
+		<Metadata name="Report.ДанныеСпецПредложений.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="90e0264e-cad0-4b57-9c41-131a86a049bb.0" configVersion="f29b46247d485a4f8d51e232434d721200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
